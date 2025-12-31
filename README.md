@@ -17,14 +17,11 @@ I am particularly interested in building **robust, efficient, and interpretable 
 # Research Interests
 - **Multimodal Learning**
 - **Cross-Modal Retrieval**
+- **Noisy label Learning**
 - **Large Language Models (LLMs)**
 - **Multimodal Large Language Models (MLLMs)**
 - **Vision-Language Models (VLMs)**
 
-My research mainly focuses on:
-- Learning discriminative multimodal representations under **noisy or weak supervision**
-- Efficient cross-modal retrieval via **hashing and contrastive learning**
-- Bridging vision and language with **lightweight yet effective architectures**
 
 ---
 
