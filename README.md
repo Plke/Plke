@@ -1,8 +1,8 @@
 
 # Bio
 You can call me **Planck**.  
-I received both my B.E. and M.S. degrees from **Sichuan University**, majoring in **Artificial Intelligence** and **Computer Science**.  
-My academic training focuses on machine learning, multimodal representation learning, and large-scale neural networks.
+I am currently pursuing my M.S. in Computer Science at the College of Computer Science, Sichuan University. I received my B.E. in Artificial Intelligence from the same college.
+My academic training focuses on machine learning, multimodal representation learning.
 
 I am particularly interested in building **robust, efficient, and interpretable multimodal systems**, with applications in cross-modal retrieval and vision-language understanding.
 
