@@ -4,8 +4,6 @@ You can call me **Planck**.
 I am currently pursuing my M.S. in Computer Science at the College of Computer Science, Sichuan University. I received my B.E. in Artificial Intelligence from the same college.
 My academic training focuses on machine learning, multimodal representation learning.
 
-I am particularly interested in building **robust, efficient, and interpretable multimodal systems**, with applications in cross-modal retrieval and vision-language understanding.
-
 ---
 
 # Publications
