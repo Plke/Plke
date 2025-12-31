@@ -36,7 +36,6 @@ I am particularly interested in building **robust, efficient, and interpretable 
 - Java
 - Spring Boot
 
----
 
 # Interests
 - **AI Inference**  
