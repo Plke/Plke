@@ -1,6 +1,5 @@
-# Planck
 
-## Bio
+# Bio
 You can call me **Planck**.  
 I received both my B.E. and M.S. degrees from **Sichuan University**, majoring in **Artificial Intelligence** and **Computer Science**.  
 My academic training focuses on machine learning, multimodal representation learning, and large-scale neural networks.
@@ -9,13 +8,13 @@ I am particularly interested in building **robust, efficient, and interpretable 
 
 ---
 
-## Publications
+# Publications
 - **Semantic-Consistent Bidirectional Contrastive Hashing for Noisy Multi-Label Cross-Modal Retrieval**  
   *AAAI 2026*
 
 ---
 
-## Research Interests
+# Research Interests
 - **Multimodal Learning**
 - **Cross-Modal Retrieval**
 - **Large Language Models (LLMs)**
@@ -29,22 +28,22 @@ My research mainly focuses on:
 
 ---
 
-## Technical Skills
+# Technical Skills
 
-### Frontend
+## Frontend
 - JavaScript
 - Vue 3
 
-### Backend
+## Backend
 - MySQL
 - Java
 - Spring Boot
 
 ---
 
-## Interests
+# Interests
 - **AI Inference**  
 ---
 
-## Contact
+# Contact
 Feel free to reach out for discussion.
